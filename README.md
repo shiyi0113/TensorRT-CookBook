@@ -1,11 +1,4 @@
 # cookbook
-
-+ **This README.md is automatically generated from `build-README.py`, changes should be done there.**
-
-<p align="center">
-<img src="TensorRTCookbook-ico.png" width="200px" height="200px" alt="描述">
-</p>
-
 + This repository is presented for NVIDIA TensorRT beginners and developers, which provides TensorRT-related learning and reference materials, as well as code examples.
 
 + Recommend order to read the subtopics if you are a freshman to the TensorRT:
@@ -63,9 +56,6 @@ pip install -e .
 
 + Related video tutorial on Bilibili website:
   + [TensorRT-8.6.1](https://www.bilibili.com/video/BV1jj411Z7wG/)
-  + [TensorRT-8.2.3](https://www.bilibili.com/video/BV15Y4y1W73E)
-  + [Hackathon2022](https://www.bilibili.com/video/BV1i3411G7vN)
-  + [Hackathon2023](https://www.bilibili.com/video/BV1dw411r7X8/)
 
 ## Important update of the repository
 
