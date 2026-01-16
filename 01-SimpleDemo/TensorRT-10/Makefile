@@ -1,4 +1,6 @@
 include $(TRT_COOKBOOK_PATH)/include/Makefile.inc
+main: main.o cookbookHelper.o
+	$(NVCC) $(LDFLAG) -o main main.o cookbookHelper.o -lnvinfer -lcudart
 
 all: main.exe
 
